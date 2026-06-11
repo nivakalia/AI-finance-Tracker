@@ -3,6 +3,11 @@
 An AI-powered personal finance dashboard built using **Flask, SQLite, and Chart.js**. The application helps users track expenses, visualize spending patterns, and receive AI-generated financial insights.
 
 ---
+## Preview
+
+![Dashboard](screenshots/dashboard.png)
+
+![AI Insights](screenshots/insights.png)
 
 ##  Features
 
