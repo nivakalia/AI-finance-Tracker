@@ -22,7 +22,7 @@ An AI-powered personal finance dashboard built using **Flask, SQLite, and Chart.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
