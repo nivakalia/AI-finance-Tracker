@@ -1,0 +1,98 @@
+body{
+    background-color:#f4f6f9;
+}
+
+h1{
+    font-weight:bold;
+}
+
+.lead{
+    color:#555;
+}
+
+.btn{
+    padding:10px 25px;
+}
+
+.container{
+    max-width:800px;
+}
+
+table{
+    background:white;
+}
+
+.alert{
+    margin-top:20px;
+}
+
+.navbar{
+    margin-bottom:30px;
+}
+
+canvas{
+    max-width:500px;
+    width:100%;
+    height:auto;
+    margin:40px auto;
+    display:block;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+
+.chart-section{
+    background:white;
+    border-radius:10px;
+    padding:20px;
+    margin:20px 0 40px;
+}
+
+.chart-section canvas{
+    margin:0 auto 20px;
+}
+
+.chart-legend{
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));
+    gap:10px 16px;
+}
+
+.chart-legend-item{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    color:#333;
+}
+
+.chart-swatch{
+    width:14px;
+    height:14px;
+    border-radius:3px;
+    flex:0 0 auto;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+}
+
+.card-body{
+    padding:25px;
+}
+
+.shadow{
+    box-shadow:0px 4px 10px rgba(0,0,0,0.1);
+}
+
+ul{
+    list-style:none;
+    padding-left:0;
+}
+
+li{
+    margin:12px 0;
+    padding:10px;
+    background:#f8f9fa;
+    border-radius:8px;
+}
